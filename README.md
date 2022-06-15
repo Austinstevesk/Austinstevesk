@@ -26,7 +26,9 @@
 - :zap: In my free time, I solve problems on Leetcode.
 
 - :mailbox: How to reach me: 
+  
   LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-karanja-2a0969158)
+  
   Email 📧: [austinstevesk@gmail.com](https://austinstevesk@gmail.com)
 
 ### :fire: My Stats :
