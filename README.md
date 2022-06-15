@@ -25,8 +25,9 @@
 
 - :zap: In my free time, I solve problems on Leetcode.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-karanja-2a0969158)
-- 📧: How to reach me: [austinstevesk@gmail.com](https://austinstevesk@gmail.com)
+- :mailbox: How to reach me: 
+  LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-karanja-2a0969158)
+  Email 📧: [austinstevesk@gmail.com](https://austinstevesk@gmail.com)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Austinstevesk&theme=dark&background=000000)](https://git.io/streak-stats)
