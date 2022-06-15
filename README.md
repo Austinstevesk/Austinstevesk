@@ -17,9 +17,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 :man_technologist: About Me :  
-- I am a Backend Developer from Kenya.
-- :telescope: I’m working as a Software Engineer at LimaLabs.
+- I am a Backend Developer from Kenya.  
 
+- :telescope: I’m working as a Software Engineer at LimaLabs.  
+-
 - :seedling: Exploring Web3.
 
 - :zap: In my free time, I solve problems on Leetcode.
