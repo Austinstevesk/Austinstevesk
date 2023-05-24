@@ -17,6 +17,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
 </div>
 :man_technologist: About Me :  
+
 - I am a Backend Developer from Kenya.
 
 - :telescope: I’m working as a Software Engineer at LimaLabs.  
